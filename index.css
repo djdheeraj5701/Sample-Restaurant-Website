@@ -51,6 +51,9 @@ a:visited{
     margin-right: 40px;
     margin-top: 60px;
 }
+#Contact li {
+    margin-right: 20px;
+}
 
 .main-nav li a:link,
 .main-nav li a:visited,
