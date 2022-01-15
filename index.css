@@ -44,8 +44,7 @@ a:visited{
     display: flex;
     flex-direction: row;
 }
-.main-nav li,
-#Contact li {
+.main-nav li,#Contact li  {
     display: inline-block;
     margin-left: 0px;
     margin-right: 40px;
@@ -125,5 +124,16 @@ a:visited{
 }
 .fa-instagram:hover{
     color:magenta;
+}
+#submit_review,#reset_review{
+    color: white;
+    font-weight: 400;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-size: 20px;
+    width: max-content;
+    background-color:orange;
+    padding: 8px 16px 8px 16px;
+    border:none;
+    border-radius: 8px;
 }
 
